@@ -1,17 +1,13 @@
 #include <iostream>
-#include "hash/e575.h"
+#include "dp/e1137.h"
+
+
 
 int main() {
 
-    E575 e;
-    vector<int> target;
-    target.push_back(1);
-    target.push_back(1);
-    target.push_back(2);
-    target.push_back(2);
-    target.push_back(3);
-    target.push_back(3);
+    E1137 e;
 
-    cout << e.distributeCandies(target) << endl;
+    cout << e.tribonacci(6) << endl;
+
     return 0;
 }

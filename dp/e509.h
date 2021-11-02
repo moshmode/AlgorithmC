@@ -4,10 +4,12 @@
 
 #ifndef ALGORITHM_E509_H
 #define ALGORITHM_E509_H
+
 #include<bits/stdc++.h>
 
 class E509 {
-
+public:
+    int fib(int n);
 };
 
 
