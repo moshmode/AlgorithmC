@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/WorkSpace/CLionProjects/Algorithm/hash/e500.cpp
+e500.h
+D:/WorkSpace/CLionProjects/Algorithm/hash/e500.h
+
+D:/WorkSpace/CLionProjects/Algorithm/hash/e500.h
+bits/stdc++.h
+-
+
+D:/WorkSpace/CLionProjects/Algorithm/hash/e575.cpp
+e575.h
+D:/WorkSpace/CLionProjects/Algorithm/hash/e575.h
+
+D:/WorkSpace/CLionProjects/Algorithm/hash/e575.h
+bits/stdc++.h
+-
+
+D:/WorkSpace/CLionProjects/Algorithm/main.cpp
+iostream
+-
+hash/e575.h
+D:/WorkSpace/CLionProjects/Algorithm/hash/e575.h
+
